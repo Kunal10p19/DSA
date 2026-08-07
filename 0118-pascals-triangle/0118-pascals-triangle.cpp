@@ -5,7 +5,7 @@ public:
         vector<int> row;
         row.push_back(1);
 
-        long long ans = 1;
+        int ans = 1;
 
         for (int col = 1; col < n; col++) {
 
