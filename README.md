@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kunal10p19/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kunal10p19/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Kunal10p19/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kunal10p19/DSA/tree/master/0054-spiral-matrix) |
@@ -17,6 +18,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kunal10p19/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kunal10p19/DSA/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kunal10p19/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -38,6 +40,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kunal10p19/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Kunal10p19/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
