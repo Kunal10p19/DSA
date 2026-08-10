@@ -13,6 +13,7 @@
 | [0229-majority-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Kunal10p19/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal10p19/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kunal10p19/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kunal10p19/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunal10p19/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -20,6 +21,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kunal10p19/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kunal10p19/DSA/tree/master/0031-next-permutation) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kunal10p19/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kunal10p19/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -43,6 +45,7 @@
 | [0015-3sum](https://github.com/Kunal10p19/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Kunal10p19/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0229-majority-element-ii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kunal10p19/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Counting
 |  |
 | ------- |
@@ -90,4 +93,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunal10p19/DSA/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kunal10p19/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
