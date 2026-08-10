@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kunal10p19/DSA/tree/master/0048-rotate-image) |
+| [1922-count-good-numbers](https://github.com/Kunal10p19/DSA/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunal10p19/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Kunal10p19/DSA/tree/master/0118-pascals-triangle) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Kunal10p19/DSA/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
