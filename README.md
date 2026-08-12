@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/Kunal10p19/DSA/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Kunal10p19/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Kunal10p19/DSA/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/Kunal10p19/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Kunal10p19/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal10p19/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -93,6 +94,7 @@
 | [0022-generate-parentheses](https://github.com/Kunal10p19/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Kunal10p19/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kunal10p19/DSA/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Kunal10p19/DSA/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
