@@ -17,6 +17,7 @@
 | [0229-majority-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Kunal10p19/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal10p19/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kunal10p19/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kunal10p19/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kunal10p19/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunal10p19/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kunal10p19/DSA/tree/master/0048-rotate-image) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kunal10p19/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/Kunal10p19/DSA/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunal10p19/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
