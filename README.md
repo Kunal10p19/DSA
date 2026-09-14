@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kunal10p19/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kunal10p19/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kunal10p19/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Kunal10p19/DSA/tree/master/0039-combination-sum) |
@@ -113,6 +114,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kunal10p19/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Kunal10p19/DSA/tree/master/0704-binary-search) |
