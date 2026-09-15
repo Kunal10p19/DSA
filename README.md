@@ -16,6 +16,7 @@
 | [0078-subsets](https://github.com/Kunal10p19/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Kunal10p19/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Kunal10p19/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kunal10p19/DSA/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Kunal10p19/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0229-majority-element-ii) |
@@ -119,6 +120,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kunal10p19/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Kunal10p19/DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Kunal10p19/DSA/tree/master/0704-binary-search) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kunal10p19/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Bit Manipulation
