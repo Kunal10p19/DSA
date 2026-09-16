@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/Kunal10p19/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kunal10p19/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Kunal10p19/DSA/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal10p19/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Kunal10p19/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kunal10p19/DSA/tree/master/0162-find-peak-element) |
@@ -121,6 +122,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kunal10p19/DSA/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal10p19/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kunal10p19/DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Kunal10p19/DSA/tree/master/0704-binary-search) |
