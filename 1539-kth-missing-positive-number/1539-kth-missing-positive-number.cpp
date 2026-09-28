@@ -15,6 +15,6 @@ public:
                 high = mid-1;
             }
         }
-        return k + 1 + high;
+        return k + low;
     }
 };
