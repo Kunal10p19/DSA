@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunal10p19/DSA/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Kunal10p19/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunal10p19/DSA/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Kunal10p19/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Kunal10p19/DSA/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Kunal10p19/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
