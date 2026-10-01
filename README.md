@@ -111,6 +111,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunal10p19/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Kunal10p19/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Kunal10p19/DSA/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/Kunal10p19/DSA/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -165,4 +166,5 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunal10p19/DSA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Kunal10p19/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
