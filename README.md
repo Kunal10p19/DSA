@@ -81,6 +81,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kunal10p19/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Kunal10p19/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kunal10p19/DSA/tree/master/0050-powx-n) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kunal10p19/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -108,6 +109,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kunal10p19/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Kunal10p19/DSA/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Kunal10p19/DSA/tree/master/1922-count-good-numbers) |
 ## String
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Kunal10p19/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kunal10p19/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
