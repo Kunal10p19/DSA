@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kunal10p19/DSA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kunal10p19/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Kunal10p19/DSA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Kunal10p19/DSA/tree/master/0283-move-zeroes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kunal10p19/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunal10p19/DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kunal10p19/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Kunal10p19/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kunal10p19/DSA/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
