@@ -1,10 +1,10 @@
+
 class Solution {
 public:
-
-    int count(ListNode* head, int limit){
+    int count(ListNode* head, int limit) {
         int cnt = 0;
 
-        while(head != NULL && cnt < limit){
+        while (head != nullptr && cnt < limit) {
             cnt++;
             head = head->next;
         }
@@ -13,12 +13,11 @@ public:
     }
 
     ListNode* reverse(ListNode* head, int cnt) {
-        ListNode* prev = NULL;
+        ListNode* prev = nullptr;
         ListNode* curr = head;
 
-        while(cnt--){
+        while (cnt--) {
             ListNode* next = curr->next;
-
             curr->next = prev;
             prev = curr;
             curr = next;
@@ -28,56 +27,40 @@ public:
     }
 
     ListNode* reverseEvenLengthGroups(ListNode* head) {
-
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-        ListNode* newhead = nullptr;
+        ListNode* left = head;
+        ListNode* right = nullptr;
+        ListNode* nextleft = nullptr;
+        ListNode* prevleft = nullptr;
 
         int grpsize = 1;
 
-        while(curr != NULL){
+        while (left != nullptr) {
+            int cnt = count(left, grpsize);
 
-            // Find actual size of current group
-            int cnt = count(curr, grpsize);
+            right = left;
 
-            // Find where the next group starts
-            ListNode* nxtgrp = curr;
-
-            for(int i = 0; i < cnt; i++)
-                nxtgrp = nxtgrp->next;
-
-            // Reverse if actual group size is even
-            if(cnt % 2 == 0){
-
-                ListNode* grpstrt = curr;
-
-                newhead = reverse(curr, cnt);
-
-                // Connect previous group with reversed group
-                if(prev == NULL)
-                    head = newhead;
-                else
-                    prev->next = newhead;
-
-                // Connect reversed group with next group
-                grpstrt->next = nxtgrp;
-
-                // Old start becomes the last node
-                prev = grpstrt;
-
-                // Move to next group
-                curr = nxtgrp;
+            for (int i = 1; i < cnt; i++) {
+                right = right->next;
             }
 
-            // If group size is odd, don't reverse
-            else{
+            nextleft = right->next;
 
-                for(int i = 0; i < cnt; i++){
-                    prev = curr;
-                    curr = curr->next;
+            if (cnt % 2 == 0) {
+                right = reverse(left, cnt);
+
+                if (prevleft != nullptr) {
+                    prevleft->next = right;
+                } else {
+                    head = right;
                 }
+
+                left->next = nextleft;
+                prevleft = left;
+            } else {
+                prevleft = right;
             }
 
+            left = nextleft;
             grpsize++;
         }
 
