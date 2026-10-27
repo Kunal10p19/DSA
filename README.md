@@ -172,4 +172,5 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Kunal10p19/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Kunal10p19/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kunal10p19/DSA/tree/master/0328-odd-even-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Kunal10p19/DSA/tree/master/2074-reverse-nodes-in-even-length-groups) |
 <!---LeetCode Topics End-->
