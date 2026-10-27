@@ -61,6 +61,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kunal10p19/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Kunal10p19/DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -171,8 +172,21 @@
 | [0002-add-two-numbers](https://github.com/Kunal10p19/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kunal10p19/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Kunal10p19/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Kunal10p19/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Kunal10p19/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Kunal10p19/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kunal10p19/DSA/tree/master/0328-odd-even-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Kunal10p19/DSA/tree/master/2074-reverse-nodes-in-even-length-groups) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kunal10p19/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kunal10p19/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kunal10p19/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
