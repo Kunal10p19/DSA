@@ -31,6 +31,7 @@ public:
 
         ListNode* prev = NULL;
         ListNode* curr = head;
+        ListNode* newhead = nullptr;
 
         int grpsize = 1;
 
@@ -50,13 +51,13 @@ public:
 
                 ListNode* grpstrt = curr;
 
-                curr = reverse(curr, cnt);
+                newhead = reverse(curr, cnt);
 
                 // Connect previous group with reversed group
                 if(prev == NULL)
-                    head = curr;
+                    head = newhead;
                 else
-                    prev->next = curr;
+                    prev->next = newhead;
 
                 // Connect reversed group with next group
                 grpstrt->next = nxtgrp;
