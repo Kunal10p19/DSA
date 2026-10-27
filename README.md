@@ -45,6 +45,7 @@
 | [0031-next-permutation](https://github.com/Kunal10p19/DSA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Kunal10p19/DSA/tree/master/0283-move-zeroes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kunal10p19/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kunal10p19/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kunal10p19/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -177,6 +178,7 @@
 | [0206-reverse-linked-list](https://github.com/Kunal10p19/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kunal10p19/DSA/tree/master/0328-odd-even-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Kunal10p19/DSA/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kunal10p19/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
