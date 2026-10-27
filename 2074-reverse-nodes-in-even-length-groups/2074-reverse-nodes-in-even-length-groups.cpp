@@ -46,7 +46,7 @@ public:
             nextleft = right->next;
 
             if (cnt % 2 == 0) {
-                right = reverse(left, cnt);
+                reverse(left, cnt);
 
                 if (prevleft != nullptr) {
                     prevleft->next = right;
