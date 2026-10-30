@@ -27,6 +27,7 @@
 | [0457-circular-array-loop](https://github.com/Kunal10p19/DSA/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Kunal10p19/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kunal10p19/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal10p19/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Kunal10p19/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Kunal10p19/DSA/tree/master/0875-koko-eating-bananas) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kunal10p19/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Kunal10p19/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
@@ -205,4 +207,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kunal10p19/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
