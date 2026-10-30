@@ -26,6 +26,7 @@
 | [0410-split-array-largest-sum](https://github.com/Kunal10p19/DSA/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/Kunal10p19/DSA/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Kunal10p19/DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Kunal10p19/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal10p19/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Kunal10p19/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Kunal10p19/DSA/tree/master/0875-koko-eating-bananas) |
@@ -60,6 +61,7 @@
 | [0169-majority-element](https://github.com/Kunal10p19/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0229-majority-element-ii) |
 | [0457-circular-array-loop](https://github.com/Kunal10p19/DSA/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/Kunal10p19/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal10p19/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunal10p19/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -169,6 +171,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Kunal10p19/DSA/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Kunal10p19/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
@@ -198,4 +201,8 @@
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/Kunal10p19/DSA/tree/master/0457-circular-array-loop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Kunal10p19/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
