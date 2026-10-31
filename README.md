@@ -16,6 +16,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Kunal10p19/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Kunal10p19/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal10p19/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kunal10p19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Kunal10p19/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kunal10p19/DSA/tree/master/0162-find-peak-element) |
@@ -173,6 +174,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kunal10p19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Kunal10p19/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Kunal10p19/DSA/tree/master/0739-daily-temperatures) |
@@ -209,6 +211,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kunal10p19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Kunal10p19/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Kunal10p19/DSA/tree/master/0739-daily-temperatures) |
@@ -221,4 +224,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Kunal10p19/DSA/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Kunal10p19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
