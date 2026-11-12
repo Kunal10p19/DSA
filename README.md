@@ -98,6 +98,7 @@
 | [0048-rotate-image](https://github.com/Kunal10p19/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kunal10p19/DSA/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Kunal10p19/DSA/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Kunal10p19/DSA/tree/master/0227-basic-calculator-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kunal10p19/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/Kunal10p19/DSA/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunal10p19/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunal10p19/DSA/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/Kunal10p19/DSA/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Kunal10p19/DSA/tree/master/0227-basic-calculator-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Kunal10p19/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
@@ -181,6 +183,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunal10p19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/Kunal10p19/DSA/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Kunal10p19/DSA/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Kunal10p19/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kunal10p19/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Kunal10p19/DSA/tree/master/0735-asteroid-collision) |
