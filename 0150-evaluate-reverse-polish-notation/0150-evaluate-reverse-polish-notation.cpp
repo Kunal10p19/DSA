@@ -7,7 +7,7 @@ public:
         for (int i = 0; i < tokens.size(); i++) {
             string ch = tokens[i];
 
-            // If token is an operator
+           
             if (ch == "+" || ch == "-" || ch == "*" || ch == "/") {
 
                 int b = st.top();
