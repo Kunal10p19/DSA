@@ -18,6 +18,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kunal10p19/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunal10p19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Kunal10p19/DSA/tree/master/0118-pascals-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kunal10p19/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kunal10p19/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kunal10p19/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kunal10p19/DSA/tree/master/0169-majority-element) |
@@ -97,6 +98,7 @@
 | [0002-add-two-numbers](https://github.com/Kunal10p19/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Kunal10p19/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kunal10p19/DSA/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kunal10p19/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Kunal10p19/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Kunal10p19/DSA/tree/master/0227-basic-calculator-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kunal10p19/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunal10p19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kunal10p19/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Kunal10p19/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Kunal10p19/DSA/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Kunal10p19/DSA/tree/master/0496-next-greater-element-i) |
